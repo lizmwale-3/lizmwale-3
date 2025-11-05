@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lizmwale-3
 - 👀 I’m interested in arts, designing,music, novels and writing novels
-- 🌱 I’m currently learning software engineering in the alx programme
+- 🌱 I have taken various courses from the alx programme: virtual assistance, AI starter kit, data analytics
 - 💞️ I’m looking to collaborate on projects and assignments that i may need assistace in
 - 📫 How to reach me: email: elizabethmwale3@gmail.com
 
